@@ -6,6 +6,7 @@ The deterministic and stochastic version of the differential equation model as p
 Run the program:
 
 -`Copper_plankton_deterministic.py`   : Demonstrates bistability in the deterministic ODE model
+
 -`Copper_plankton_stochastic.py`      : Demonstrates stochastic switching between two equilibrium states in the SDE model
 
 

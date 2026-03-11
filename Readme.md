@@ -1,7 +1,7 @@
 ## README
 
 Script to simulate the planktonic ecosystem model in the presence of copper contamination 
-The deterministic and stochastic version of the differential equation model as published in Banerjee et al. 2021, Theoretical Ecology
+The deterministic and stochastic version of the differential equation model as published in Banerjee et al. 2021, Chemical contamination-mediated regime shifts in planktonic systems, Theoretical Ecology
 
 Run the program:
 
